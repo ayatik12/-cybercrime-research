@@ -1,21 +1,30 @@
-# -cybercrime-research
-Research on causes and prevention of cybercrime in the digital age
 # Cybercrime in the Digital Age: Analyzing Causes and Developing Preventive Strategies
 
-This repository contains my undergraduate research project focused on understanding the root causes of cybercrime and proposing practical, data-driven preventive measures.
+This repository contains my research work on cybercrime — including both the full dissertation submitted to Teerthanker Mahaveer University and the short paper published at IFF-2025.
 
-## 📌 Abstract
-The study explores cybercrime trends across domains such as phishing, data breaches, ransomware, and social engineering. It analyzes socio-technical drivers and legal loopholes that enable digital crimes.
+---
 
-## 📄 Files
-- `Cybercrime_Research_Paper.pdf` – Full paper  
-- `summary.txt` – One-paragraph overview  
-- `presentation/` – Supplementary materials (if available)
+## 📄 Published Paper (IFF-2025)
+- **Title:** Cybercrime in the Digital Age: Analyzing Causes and Developing Preventive Strategies  
+- **Event:** 4th International Forensic Forum (IFF-2025)  
+- 📁 [`IFF2025_Cybercrime_Paper.pdf`](IFF2025_Cybercrime_Paper.pdf)
 
-## 🔧 Tools & Methods
-- Case Study Analysis  
-- OSINT Sources  
-- Statistical Tabulation (Excel)
+---
 
-## 🏛️ Institution
-- Teerthanker Mahaveer University (Jan 2024 – June 2024)
+## 📄 Legacy Dissertation (2024)
+- **Institution:** Teerthanker Mahaveer University  
+- 📁 [`TMU_Dissertation.pdf`](legacy-dissertation/TMU_Dissertation.pdf)
+
+---
+
+## 📊 Topics Covered
+- Victim psychology and awareness
+- Role of education and cyber laws
+- Survey-based insights from digital users
+- Recommendations for prevention and resilience
+
+---
+
+## 🛠 Tools Used
+- Google Forms & Excel (Survey & Analysis)
+- MS Word (Formatting, citations)
